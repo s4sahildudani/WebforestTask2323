@@ -1,0 +1,98 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "example@example.com",
+      "password": "$2b$10$3Fpjgy/wX23XcLb8Ue5VtO1dM8EXv7L3szn35N4RU21UpRGvqyN2G"
+    },
+    {
+      "email": "s4sahil@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "sahil@gmail.com",
+      "password": "sahil123",
+      "id": 3
+    },
+    {
+      "email": "sahil123",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "sd4545",
+      "password": "4545",
+      "id": 5
+    },
+    {
+      "email": "sahil22",
+      "password": "22",
+      "id": 6
+    },
+    {
+      "email": "Sahil199",
+      "password": "199",
+      "id": 7
+    },
+    {
+      "email": "sd4657@gmail.com",
+      "password": "456",
+      "id": 8
+    },
+    {
+      "email": "sahil45@gmail.com",
+      "password": "4567",
+      "id": 9
+    },
+    {
+      "email": "sahil12@gmail.com",
+      "password": "1234",
+      "id": 10
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "New York",
+      "temperature": "24°C",
+      "humidity": "33°C",
+      "weather conditions": "Good"
+    },
+    {
+      "id": 2,
+      "name": "London",
+      "temperature": "18°C",
+      "humidity": "38°C",
+      "weather conditions": "Bad"
+    },
+    {
+      "id": 3,
+      "name": "Tokyo",
+      "temperature": "28°C",
+      "humidity": "38°C",
+      "weather conditions": "Good"
+    },
+    {
+      "name": "Nagpur",
+      "temperature": "22",
+      "humidity": "32",
+      "weather conditions": "Bad",
+      "id": 4
+    },
+    {
+      "name": "Amritsar",
+      "temperature": "28°C",
+      "humidity": "38°C",
+      "weather conditions": "Bad",
+      "id": 5
+    },
+    {
+      "name": "Pune",
+      "temperature": "30",
+      "humidity": "40",
+      "weather conditions": "50",
+      "id": 6
+    }
+  ]
+}
